@@ -1,0 +1,75 @@
+body {
+	font-family: "Permanent Marker", cursive;
+	color: #000;
+	text-shadow: 2px 2px 2px #fff;
+	background-color: #C9FFEE;
+	color: #B2867B;
+	width: 90%;
+	display: flex;
+	flex-direction: column; 
+	font-size: 1.2em;
+	margin: 0;
+	width: 100%;
+	border-top: 50px solid #B2867B;
+}
+
+h1 {
+	font-size: 5em;
+	text-align: center;
+}
+.divbox {
+	margin: 0 auto;
+}
+
+/*CARD STYLINGS*/
+#peopleBox {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding: 1%;
+}
+
+
+
+.card1 {
+	width: 300px;
+	text-align: center;
+	font-size: 1.1em;
+	margin: 2% 2%;
+	border:3px solid #fff;
+	word-wrap: break-word;
+	background-color: lightyellow;
+}
+
+.card2 {
+	width: 300px;
+	text-align: center;
+	font-size: 1.1em;
+	margin: 2% 2%;
+	border:3px solid #fff;
+	word-wrap: break-word;
+	background-color: lightblue; 
+}
+
+.border {
+	border: 5px dashed #000;
+}
+
+
+
+
+.pics {
+	height: 200px;
+	width: 300px;
+}
+
+.bio {
+	width: 300px;
+	text-align: center;
+}
+
+h2 { 
+word-wrap: break-word; 
+}
+
